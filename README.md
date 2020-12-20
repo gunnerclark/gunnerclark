@@ -7,11 +7,11 @@ My name is Gunner Clark and I'm a front-end web developer.
 I build and design websites and web apps that focus on performance and future maintainability.
 When I'm not building websites and web apps, I'm developing both virtual and augmented reality applications aimed to improve user productivity and QOL. 
 
-Learn more about me at: [gunnerclark.dev](http://gunnerclark.dev).
+Learn more about me at [gunnerclark.dev](http://gunnerclark.dev).
 
 ## 🌱 Digital Garden
 
-You can find my blog posts on [garden.gunnerclark.dev](http://garden.gunnerclark.dev) where I post random thoughts and ideas as well as updates for pending projects.
+You can find my blog posts at [garden.gunnerclark.dev](http://garden.gunnerclark.dev) where I post random thoughts and ideas as well as updates for pending projects.
 
 ## ✉️ Get in Touch
 - portfolio: [gunnerclark.dev](http://gunnerclark.dev)

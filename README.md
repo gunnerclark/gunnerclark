@@ -1,5 +1,5 @@
 
-<a href="http://gunnerclark.dev"><p align="center"><img src="https://github.com/gunnerclark/portfolio-v2/blob/main/src/assets/project-ico/PortfolioLarge.png?raw=true" width="150"></p></a>
+<a href="http://gunnerclark.dev" target="_blank" title="gunnerclark.dev"><p align="center"><img src="https://github.com/gunnerclark/portfolio-v2/blob/main/src/assets/project-ico/PortfolioLarge.png?raw=true" width="150"></p></a>
 
 Hello!
 

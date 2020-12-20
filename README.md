@@ -1,5 +1,5 @@
 
-<div style="text-align: center"><img src="https://github.com/gunnerclark/portfolio-v2/blob/main/src/assets/project-ico/PortfolioLarge.png?raw=true" width="150"></div>
+<p align="center"><img src="https://github.com/gunnerclark/portfolio-v2/blob/main/src/assets/project-ico/PortfolioLarge.png?raw=true" width="150"></p>
 
 Hello!
 
@@ -9,12 +9,12 @@ When I'm not building websites and web apps, I'm developing both virtual and aug
 
 Learn more about me at: [gunnerclark.dev](http://gunnerclark.dev).
 
-## <div style="display:flex; text-align: bottom" height="36px"><div style="padding-right: 6px"><img src="https://github.com/gunnerclark/portfolio-v2/blob/main/src/assets/project-ico/GardenLarge.png?raw=true" width="36px"></div><div style="padding-top: 3px"> Digital Garden</div></div> 
+## 🌱 Digital Garden
 
 You can find my blog posts on [garden.gunnerclark.dev](http://garden.gunnerclark.dev) where I post random thoughts and ideas as well as updates for pending projects.
 
-## <div style="display:flex; text-align: bottom" height="36px"><div style="padding-right: 6px">✉️</div><div> Get in Touch</div></div>
-portfolio: [gunnerclark.dev](http://gunnerclark.dev)
-blog: [garden.gunnerclark.dev](http://garden.gunnerclark.dev)
-mailto: [contact@gunnerclark.dev](mailto:contact@gunnerclark.dev?subject=Contact)
-linkedin: [linkedin.com/in/gunnerclark](http://linkedin.com/in/gunnerclark)
+## ✉️ Get in Touch
+- portfolio: [gunnerclark.dev](http://gunnerclark.dev)
+- blog: [garden.gunnerclark.dev](http://garden.gunnerclark.dev)
+- linkedin: [linkedin.com/in/gunnerclark](http://linkedin.com/in/gunnerclark)
+- mailto: [contact@gunnerclark.dev](mailto:contact@gunnerclark.dev?subject=Contact)
